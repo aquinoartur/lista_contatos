@@ -6,7 +6,7 @@
 Faça o download do arquivo APK do app e instale-o em seu smartphone.
 
 <p align="center">
-  <a href="https://drive.google.com/u/0/uc?id=1CVCICFSZI7unLlgqITdNYr5fWWZtXwor&export=download">Download IMC App</a>
+  <a href="https://drive.google.com/u/0/uc?id=12j740JyYL8S0JPEuMX-imsuxfigsYff1&export=download">Download IMC App</a>
 </p>
 
  <p align="center">
