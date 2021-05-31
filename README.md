@@ -17,3 +17,6 @@ Faça o download do arquivo APK do app e instale-o em seu smartphone.
 ## Aprendizado
 * Utilização de *Forms*.
 * Utilização de `setState`.
+* Utilização da classe *WillPopScope*.
+* Utilização de *ModalBottomSheet*.
+* Utilização de *PopupMenuButton* para ordenação alfabética da lista de contatos.
